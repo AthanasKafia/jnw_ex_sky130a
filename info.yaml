@@ -9,7 +9,7 @@ tagline: Fingers crossed it works
 # Your email, if you so wish
 email: athanak@stud.ntnu.no
 # Your github site, usually <github username>.github.io
-url: athanaskafia.github.io
+url: https://athanaskafia.github.io/jnw_ex_sky130a/
 doc:
   # Make docs
   libraries:
