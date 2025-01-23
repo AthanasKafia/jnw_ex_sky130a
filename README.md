@@ -10,11 +10,11 @@ athanas
 
 # Why
 
-<explain why you made this module>
+To complete Milestone 0
 
 # How
 
-<explain short how you made this module>
+Following the tutorial
 
 
 # What
@@ -29,7 +29,7 @@ athanas
 
 | Version | Status | Comment|
 | :---| :---| :---|
-|0.1.0 | :x: | Make something |
+|0.1.0 | :V: | I think it works |
 
 
 # Signal interface
